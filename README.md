@@ -1,62 +1,83 @@
-<h1 align="center">Hi 👋, I'm sheikh-muzammil2026</h1>
+<h1 align="center">Hi 👋, I'm Sheikh Muzammil</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh, focusing on MERN Stack and PHP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheikh-muzammil2026&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-muzammil2026" />
+  <img src="https://komarev.com/ghpvc/?username=sheikh-muzammil2026&label=Profile%20views&color=0e75b6&style=flat-square" alt="sheikh-muzammil2026" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sheikh-muzammil" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:discordsstudent@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Dedicated to building high-performance, user-centric web applications. Currently deep-diving into the JavaScript ecosystem while maintaining a strong interest in backend stability with PHP. I enjoy optimizing logic, exploring server-side rendering with Next.js, and crafting seamless digital experiences.
+I am a dedicated Frontend Developer committed to building high-performance, user-centric web applications. Currently deep-diving into the JavaScript ecosystem while maintaining a strong interest in backend stability with PHP. I enjoy optimizing logic, exploring server-side rendering with Next.js, and crafting seamless digital experiences.
 
-- 🌱 I’m currently learning **React.js, Next.js, Express, MongoDB, and PHP**
-- 💻 I love optimizing code and building efficient logic
-- 💬 Ask me about **JavaScript, Frontend Development, or Logic Building**
-- 📫 Reach me at: **discordsstudent@gmail.com**
+- 🌱 **Currently Learning:** React.js, Next.js, Express, MongoDB, and PHP.
+- 💻 **Specialties:** Code Optimization & Efficient Logic Building.
+- 🛠 **OS Preference:** I prefer working in a **Linux** environment.
+- 🎓 **Certification:** Completed Web Development at Programming Hero (Batch 13).
+- 📂 **Current Project:** Building **"Suncart"**, a full-stack e-commerce solution.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠 Tech Stack
+
+<div align="center">
+
+  **Languages** <br />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <br />**Frontend Frameworks & Libraries** <br />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <br />**Backend & Database** <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <br />**Tools & OS** <br />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikh-muzammil2026&show_icons=true&theme=radical" alt="Muzammil's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-muzammil2026&theme=radical" alt="Muzammil's Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheikh-muzammil2026&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Muzammil's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-muzammil2026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
----
-
-### 🛠 Languages and Tools
-
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
-  
-  <!-- Backend & DB -->
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
-  
-  <!-- Others -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-
----
-
-### 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/sheikh-muzammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh muzammil" height="30" width="40" /></a>
-<a href="https://fb.com/sheikh-muzammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh muzammil" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-muzammil2026&theme=radical&hide_border=true" alt="Muzammil's Streak" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 
-- **GitHub repository - sheikh-muzammil2026/B13-A6-DigiTools-Platform**
+- 🛒 **[Suncart](https://github.com/sheikh-muzammil2026/Suncart)** - A full-stack E-commerce solution built with Next.js, Tailwind CSS, and MongoDB.
+- 🛠 **[DigiTools Platform](https://github.com/sheikh-muzammil2026/B13-A6-DigiTools-Platform)** - A platform focused on managing specialized digital tools.
 
+---
+
+### 🤝 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/sheikh-muzammil" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://fb.com/sheikh-muzammil" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:discordsstudent@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">⭐️ From <b>Sheikh Muzammil</b></p>
