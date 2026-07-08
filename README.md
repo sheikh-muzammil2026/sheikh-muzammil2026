@@ -83,8 +83,9 @@ I am a passionate **Frontend Developer** and **Full-Stack MERN Developer** from 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=sheikh-muzammil2026&theme=radical&hide_border=true" alt="Muzammil's Streak" />
+  <img src="https://github-readme-streak-stats.flashthebeast.workers.dev/?user=sheikh-muzammil2026&theme=radical&hide_border=true" alt="Muzammil's Streak" />
 </p>
+
 ---
 
 ### 🤝 Connect with me:
