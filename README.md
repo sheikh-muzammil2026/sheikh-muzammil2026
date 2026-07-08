@@ -75,18 +75,16 @@ I am a passionate **Frontend Developer** and **Full-Stack MERN Developer** from 
 - 🌐 **[Personal Portfolio Website](https://sheikh-muzammil-portfolio.vercel.app/)** - Fully responsive developer portfolio built with Next.js and Tailwind CSS, showcasing technical expertise, optimized performance, and my complete dev journey.
 
 ---
-
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheikh-muzammil2026&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Muzammil's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-muzammil2026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sheikh-muzammil2026&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Muzammil's Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sheikh-muzammil2026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sheikh-muzammil2026&theme=radical&hide_border=true" alt="Muzammil's Streak" />
+  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=sheikh-muzammil2026&theme=radical&hide_border=true" alt="Muzammil's Streak" />
 </p>
-
 ---
 
 ### 🤝 Connect with me:
