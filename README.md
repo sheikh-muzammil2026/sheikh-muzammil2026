@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheikh Muzammil</h1>
-<h3 align="center">Full-Stack MERN Developer | Next.js & TypeScript Specialist | Tech & Education Leader</h3>
+<h3 align="center">Frontend Developer | Full-Stack MERN Developer | Islamic Studies Graduate | Tech & Education Leader</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sheikh-muzammil2026&label=Profile%20views&color=0e75b6&style=flat-square" alt="sheikh-muzammil2026" />
@@ -15,14 +15,15 @@
 
 ### 🚀 About Me
 
-I am a passionate **Full-Stack Web Developer (MERN & LAMP)** from Habiganj, Bangladesh. I specialize in building highly secure, scalable, and modern web applications with clean architecture. Bridging the analytical depth of an **Islamic Studies Graduate** with cutting-edge software engineering, I love crafting digital solutions for real-world problems.
+I am a passionate **Frontend Developer** and **Full-Stack MERN Developer** from Habiganj, Bangladesh, dedicated to building modern, scalable, and user-friendly web applications. With a solid background as an **Islamic Studies Graduate** and hands-on production experience, I enjoy solving real-world problems through clean code and thoughtful architecture.
 
-- 💼 **Real-World Impact:** Successfully built and managed secure web infrastructures for 4 educational institutions (Madrasahs).
-- ⚡ **Leadership & Management:** Actively running and directing an **After School Maktab** with 40+ students across multiple batches.
-- 🌱 **Focusing On:** Enterprise-grade architecture using **Next.js (App Router)**, **TypeScript**, and **Advanced Backend Security**.
-- 🛠 **OS Preference:** Power user and developer comfortable in a **Linux** environment.
-- 🎓 **Education:** Master of Arts (MA) in Islamic Studies & currently sharpening elite engineering skills at **Programming Hero (SCIC)**.
-- 🧩 **Fun Fact:** Translating classical texts and debugging asynchronous JavaScript share the exact same DNA—both demand infinite patience, critical parsing, and lifelong learning.
+- 🕌 **Real-World Experience:** Successfully developed and fully managed secure web infrastructures for 4 distinct educational institutions (Madrasahs).
+- ⚡ **Leadership & Management:** Actively running and directing an educational initiative, an **"After School Maktab"** in Habiganj, overseeing 40+ students across multiple batches.
+- 🌱 **Focusing On:** Building enterprise-grade web applications using the MERN stack, Next.js (App Router), TypeScript, and advanced security.
+- 💻 **Specialties:** Responsive design, role-based authentication systems, interactive dashboards, dynamic slot controls, and clean CRUD operations.
+- 🛠 **OS Preference:** Power user who prefers working in a **Linux** environment.
+- 🎓 **Education:** Master of Arts (MA) in Islamic Studies (2021) & currently advancing elite Full-Stack skills at **Programming Hero (SCIC - Batch-13)**.
+- 🧩 **Fun Fact:** I transition between studying classical Islamic texts and debugging asynchronous web applications—both require immense patience, sharp analytical thinking, and continuous lifelong learning.
 
 ---
 
@@ -45,14 +46,14 @@ I am a passionate **Full-Stack Web Developer (MERN & LAMP)** from Habiganj, Bang
   <img src="https://img.shields.io/badge/Better_Auth-111111?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-  <br />**UI Design & Optimization** <br />
+  <br />**UI Design & Component Libraries** <br />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HeroUI-FF4081?style=for-the-badge&logo=ui&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-  <br />**Tools, Infrastructure & DevOps** <br />
+  <br />**Tools, Infrastructure & Platforms** <br />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -67,11 +68,11 @@ I am a passionate **Full-Stack Web Developer (MERN & LAMP)** from Habiganj, Bang
 
 ### 📂 Featured Production & Projects
 
-- 🕌 **Madrasah Management Systems** - Designed, launched, and maintained custom full-stack web platforms for 4 major institutions using the MERN and LAMP stacks. 
-- 🏡 **[StayNest](https://staynest-client.vercel.app)** - Real Estate & Property Management Platform with role-based auth, customized user dashboards, and fluid interactions. ([Client](https://github.com/sheikh-muzammil2026/staynest-client) / [Server](https://github.com/sheikh-muzammil2026/staynest-server))
-- 📚 **[MediQueue](https://mediqueue-client-ochre.vercel.app)** - Tutor Booking Web App using Better Auth & JWT protected private routes with session date validations. ([Client](https://github.com/sheikh-muzammil2026/mediqueue-client) / [Server](https://github.com/sheikh-muzammil2026/mediqueue-server))
-- 🛒 **[SunCart](https://b13-a8-suncart.vercel.app)** - Summer Essentials eCommerce Platform incorporating interactive Lottie transitions, static JSON parsing, and protected profile views. ([Repository](https://github.com/sheikh-muzammil2026/B13-A8-suncart))
-- 🌐 **[Personal Portfolio](https://sheikh-muzammil-portfolio.vercel.app/)** - Fully responsive developer portfolio built with Next.js to cleanly showcase specialized projects and stacks.
+- 🕌 **Madrasah Web Infrastructures** - Developed and fully deployed comprehensive management platforms for 4 distinct educational institutions using the MERN & LAMP stacks. Built custom secure dashboards, student tracking databases, and handled full server configurations.
+- 🏡 **[StayNest](https://staynest-client.vercel.app)** - Real Estate & Property Management Platform designed to bridge tenants, owners, and admins. Features role-based dashboards, secure authentications, and a robust real-time analytics engine. ([Client](https://github.com/sheikh-muzammil2026/staynest-client) / [Server](https://github.com/sheikh-muzammil2026/staynest-server))
+- 📚 **[MediQueue](https://mediqueue-client-ochre.vercel.app)** - Tutor Booking System featuring Better Auth, JWT private routes, dynamic tutor slot control, dark/light toggle, date validation filters, and beautiful toast CRUD operations. ([Client](https://github.com/sheikh-muzammil2026/mediqueue-client) / [Server](https://github.com/sheikh-muzammil2026/mediqueue-server))
+- 🛒 **[SunCart](https://b13-a8-suncart.vercel.app)** - Modern Summer Essentials eCommerce store powered by Next.js (App Router) and MongoDB. Includes secure Google social login, dynamic product showcase, profile management, and smooth Lottie/Animate.css UI transitions. ([Repository](https://github.com/sheikh-muzammil2026/B13-A8-suncart))
+- 🌐 **[Personal Portfolio Website](https://sheikh-muzammil-portfolio.vercel.app/)** - Fully responsive developer portfolio built with Next.js and Tailwind CSS, showcasing technical expertise, optimized performance, and my complete dev journey.
 
 ---
 
@@ -83,7 +84,7 @@ I am a passionate **Full-Stack Web Developer (MERN & LAMP)** from Habiganj, Bang
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-muzammil2026&theme=radical&hide_border=true" alt="Muzammil's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sheikh-muzammil2026&theme=radical&hide_border=true" alt="Muzammil's Streak" />
 </p>
 
 ---
