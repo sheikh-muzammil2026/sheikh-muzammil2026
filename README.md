@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheikh Muzammil</h1>
-<h3 align="center">Frontend Developer | Full-Stack MERN Developer | Islamic Studies Graduate | Tech & Education Leader</h3>
+<h3 align="center">Frontend Developer | Full-Stack MERN & LAMP Developer | Tech & Education Leader</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sheikh-muzammil2026&label=Profile%20views&color=0e75b6&style=flat-square" alt="sheikh-muzammil2026" />
