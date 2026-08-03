@@ -64,6 +64,8 @@ I am a passionate **Frontend Developer** and **Full-Stack MERN Developer** from 
 
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheikh-muzammil2026)](https://git.io/streak-stats)
+
 ---
 
 ### 📂 Featured Production & Projects
