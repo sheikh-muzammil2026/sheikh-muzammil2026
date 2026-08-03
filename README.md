@@ -90,8 +90,10 @@ I am a passionate **Frontend Developer** and **Full-Stack MERN Developer** from 
 
 
 ---
-<a align="center"
+<p align="center">
+<a
   href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sheikh-muzammil2026" alt="GitHub Streak" /></a>
+  </p>
 ---
 
 ### 🤝 Connect with me:
